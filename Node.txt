@@ -1,0 +1,10 @@
+﻿Quy định: 
++ Admin: 
+	username: admin
+	password: cnpm2017
++ Giáo viên: 
+	username: giaovien
+	password: cnpm2017
++ Học Viên: 
+	username: hocvien
+	password: cnpm2017
